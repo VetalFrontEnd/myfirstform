@@ -1,0 +1,100 @@
+body {
+    background-color: white;
+
+    
+ }
+
+
+.wrapper {
+    background-color: pink;
+    border-style: groove;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 7px;
+    margin: 0 auto;
+    padding: 40px;
+    padding-bottom:10px;
+    width: 800px;
+}
+
+.head {
+    text-align: center;
+    font-weight: bold;
+    font-style: normal;
+    text-align: center;
+    font-size: 24px;
+    line-height: 28px;
+    color: darkmagenta;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+   .text-input {
+    margin: 0 0 20px;
+    display: block;
+    width: 100%;
+    border-color: darkmagenta;
+    border-radius: 7px;
+    border-width: 1px;
+    padding: 0 8px;
+    height: 25px;
+   
+    
+    
+   }
+
+   .data {
+    font-weight: normal;
+    font-style: normal;
+    text-align: left ;
+    font-size: 14px;
+    line-height: 18px;
+    color: darkmagenta;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+   }
+
+   .comment {
+    margin: 0 0 20px;
+    display: block;
+    width: 100%;
+    border-color: darkmagenta;
+    border-radius: 7px;
+    border-width: 1px;
+    padding: 0 8px;
+   }
+
+   .blacktext {
+    font-weight: normal;
+    font-style: normal;
+    text-align: left;
+    font-size: 14px;
+    line-height: 18px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+   }
+
+   .button {
+    text-align: right;
+    background-color: pink;
+    border-radius: 5px;
+   }
+
+   #Reset {
+   /* background-color: palevioletred; */
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: darkmagenta;
+    padding: 7px;
+   }
+   .tg1 {
+    background-color: palevioletred;
+   }
+   .tg2 {
+    background-color:  darkmagenta;
+   }
+   .tg3 {
+    color: black;
+   }
+
+   
